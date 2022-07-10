@@ -1,0 +1,4 @@
+set title "Loss function vs. Iterations"
+set xlabel "Iterations"
+set ylabel "Loss function"
+plot "plot.dat" with lines
